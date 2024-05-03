@@ -41,8 +41,8 @@ global.moment = moment
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
-global.imgmenu = fs.readFileSync('./storage/img/menu.png') 
-global.catalogo = fs.readFileSync('./storage/img/catalogo.png')
+global.imgmenu = fs.readFileSync('./img/menu.png') 
+global.catalogo = fs.readFileSync('./img/catalogo.png')
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
